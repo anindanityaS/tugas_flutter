@@ -27,6 +27,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
                   Container(
+                    padding: EdgeInsets.all(5),
                     width: MediaQuery.of(context).size.width / 4,
                     height: 60,
                     decoration: BoxDecoration(
@@ -40,6 +41,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     margin: EdgeInsets.all(16),
                   ),
                   Container(
+                    padding: EdgeInsets.all(5),
                     width: MediaQuery.of(context).size.width / 2,
                     height: 100,
                     alignment: Alignment.center,
@@ -69,6 +71,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
                   Container(
+                    padding: EdgeInsets.all(5),
                     width: MediaQuery.of(context).size.width / 4,
                     height: 60,
                     alignment: Alignment.center,
@@ -82,6 +85,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     ),
                   ),
                   Container(
+                    padding: EdgeInsets.all(5),
                     width: MediaQuery.of(context).size.width / 2,
                     height: 100,
                     decoration: BoxDecoration(
@@ -111,6 +115,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
                   Container(
+                    padding: EdgeInsets.all(5),
                     width: MediaQuery.of(context).size.width / 4,
                     height: 60,
                     alignment: Alignment.center,
@@ -124,6 +129,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     ),
                   ),
                   Container(
+                    padding: EdgeInsets.all(5),
                     width: MediaQuery.of(context).size.width / 2,
                     height: 100,
                     decoration: BoxDecoration(
@@ -153,6 +159,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
                   Container(
+                    padding: EdgeInsets.all(5),
                     width: MediaQuery.of(context).size.width / 4,
                     height: 60,
                     alignment: Alignment.center,
@@ -166,6 +173,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     ),
                   ),
                   Container(
+                    padding: EdgeInsets.all(5),
                     width: MediaQuery.of(context).size.width / 2,
                     height: 100,
                     decoration: BoxDecoration(
@@ -195,6 +203,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
                   Container(
+                    padding: EdgeInsets.all(5),
                     width: MediaQuery.of(context).size.width / 4,
                     height: 60,
                     alignment: Alignment.center,
@@ -208,6 +217,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     ),
                   ),
                   Container(
+                    padding: EdgeInsets.all(5),
                     width: MediaQuery.of(context).size.width / 2,
                     height: 100,
                     decoration: BoxDecoration(
@@ -237,6 +247,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
                   Container(
+                    padding: EdgeInsets.all(5),
                     width: MediaQuery.of(context).size.width / 4,
                     height: 60,
                     alignment: Alignment.center,
@@ -250,6 +261,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     ),
                   ),
                   Container(
+                    padding: EdgeInsets.all(5),
                     width: MediaQuery.of(context).size.width / 2,
                     height: 100,
                     decoration: BoxDecoration(
@@ -279,6 +291,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
                   Container(
+                    padding: EdgeInsets.all(5),
                     width: MediaQuery.of(context).size.width / 4,
                     height: 60,
                     alignment: Alignment.center,
@@ -292,6 +305,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     ),
                   ),
                   Container(
+                    padding: EdgeInsets.all(5),
                     width: MediaQuery.of(context).size.width / 2,
                     height: 100,
                     decoration: BoxDecoration(
@@ -321,6 +335,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
                   Container(
+                    padding: EdgeInsets.all(5),
                     width: MediaQuery.of(context).size.width / 4,
                     height: 60,
                     alignment: Alignment.center,
@@ -334,6 +349,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     ),
                   ),
                   Container(
+                    padding: EdgeInsets.all(5),
                     width: MediaQuery.of(context).size.width / 2,
                     height: 100,
                     decoration: BoxDecoration(
